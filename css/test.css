@@ -1,0 +1,7 @@
+body{background-color: lightgoldenrodyellow}
+h1{font-size: 60px; color: blue;}
+h2{font-size: 20px;color: green;}
+.big{font-size: 100px;}
+.uppercase{text-transform: uppercase;}
+.big.uppercase{color: navy;}
+h1 Span{color: violet;}
